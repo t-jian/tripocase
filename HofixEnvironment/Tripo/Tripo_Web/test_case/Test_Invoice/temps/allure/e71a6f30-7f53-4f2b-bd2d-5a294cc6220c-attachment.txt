@@ -1,0 +1,2 @@
+INFO     Tripo.Tripo_Web.pages.QuotationPage:QuotationPage.py:404 創建頁面總價格為HKD 5,908.00,編輯頁面總價格為5,908.00
+INFO     Tripo.Tripo_Web.pages.QuotationPage:QuotationPage.py:408 斷言通過

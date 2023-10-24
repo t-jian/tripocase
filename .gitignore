@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/HofixEnvironment/Tripo/Tripo_Web/allure-report/
+/HofixEnvironment/Tripo/Tripo_Web/temps
+/HofixEnvironment/Tripo/Tripo_Web/test_case/allure-report/
+/HofixEnvironment/Tripo/Tripo_Web/test_case/temps
+/TestEnvironment/Tripo/Tripo_Web/allure-report/
+/TestEnvironment/Tripo/Tripo_Web/temps
+/TestEnvironment/Tripo/Tripo_Web/test_case/allure-report/
+/TestEnvironment/Tripo/Tripo_Web/test_case/temps
+/HofixEnvironment/.idea
+/HofixEnvironment/allure-report
+*/temps
+*/allure-report

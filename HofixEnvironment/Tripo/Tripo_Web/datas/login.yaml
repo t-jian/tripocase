@@ -1,0 +1,32 @@
+- login:
+    textaccount: Jayce
+    textpassword: 123456789
+#    textcompanycode: TC0141
+    textcompanycode: TC0139
+
+
+    #    textaccount: David
+    #    textpassword: Travel2021
+    #    textcompanycode: TC0129
+    #    textaccount: David
+    #    textpassword: Travel2021
+    #    textcompanycode: TC0123
+    #    textaccount: David1
+    #    textpassword: Travel2021
+    #    textcompanycode: TC0141
+    #    textaccount: aaa
+    #    textpassword: Travel2021
+    #    textcompanycode: TC0141
+    url: "http://tripo.hotfix.travelconnect.co/#/login"
+#    url: "http://tripo.staging.travelconnect.co/#/login"
+#    url: "https://system.tripo.ai/"
+#    url: "https://system.tripo.ai/"
+#    url: "http://tripo.testing.travelconnect.co/"
+#    url: "https://livev2.tripo.ai/#/login"
+
+#數據準備：
+#Bank in
+#AAMSIC
+#AAMSIC1
+#一日遊項目
+

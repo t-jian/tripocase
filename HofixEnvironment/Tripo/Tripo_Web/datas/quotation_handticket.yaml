@@ -1,0 +1,20 @@
+-
+  textcontentpnr: "--- TST SFP ---\nRP/HKGH222X8/HKGH222X8            IC/SU  23FEB22/0719Z   594DUK\nHKGH222X8/0122IC/20FEB22\n  1.TUMULAK/RICKY MS\n  2  SU 053 E 21FEB 1 LEDSVO         FLWN\n  3  AF4364 Y 21FEB 1 SVOCDG         FLWN\n     OPERATED BY AEROFLOT\n  4  AF 006 U 21FEB 1 CDGJFK         FLWN\n  5 MIS 1A HK1 HKG 30DEC-MOL MAESTRO"
+  textbasicfare_invoice: 301
+  textbasicfare_xo: 300
+  texttickettax_invoice: 301
+  texttickettax_xo: 300
+  validate: null
+
+-
+#  textcontentpnr: "--- TST SFP ---\nRP/HKGH222X8/HKGH222X8            IC/SU  23FEB22/0719Z   594DUK\nHKGH222X8/0122IC/20FEB22\n  1.TCCLAK/RICKY MR\n  2  SU 053 E 21FEB 1 PVGSVO         FLWN\n  3  AF4364 Y 21FEB 1 SVOCDG         FLWN\n     OPERATED BY AEROFLOT\n  4  AF 006 U 21FEB 1 CDGJFK         FLWN\n  5 MIS 1A HK1 HKG 30DEC-MOL MAESTRO"
+  textcontentpnr: |+
+    14VJWF                      
+    1.1FAN/JOAN YAT SHAN MS   2.1LI/SYNTHIA KWAI CHING MS         
+    1. SQ  883 V  07JUL HKGSIN HK2  1425   1820  O*       E TH     
+    2. SQ  894 V  18JUL SINHKG HK2  1305   1705  O        E MO
+  textbasicfare_invoice: 401
+  textbasicfare_xo: 400
+  texttickettax_invoice: 401
+  texttickettax_xo: 400
+  validate: null

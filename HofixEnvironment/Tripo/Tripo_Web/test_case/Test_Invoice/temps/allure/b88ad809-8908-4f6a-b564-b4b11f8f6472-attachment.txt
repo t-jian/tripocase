@@ -1,0 +1,2 @@
+INFO     test_case.Test_Invoice.test_create_invoice_Jayce:test_create_invoice_Jayce.py:35 开始执行用例
+INFO     test_case.Test_Invoice.test_create_invoice_Jayce:test_create_invoice_Jayce.py:44 测试通过

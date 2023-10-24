@@ -1,0 +1,9 @@
+-
+ textdiscount: 50
+ -apiticker:
+    texttrip: TPE
+    textreturn: NRT
+ -apiticker:
+    texttrip: NRT
+    textreturn: HKG
+ validate: null

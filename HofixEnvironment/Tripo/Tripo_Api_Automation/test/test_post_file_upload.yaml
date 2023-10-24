@@ -1,0 +1,17 @@
+-
+  festure: 模块
+  story: 模块下的接口
+  title: 接口的用例
+  request:
+    method: post
+    url: http://tripo.hotfix.travelconnect.co/api/v1/b2bapp/lead-lstns/AddAttachment
+    headers:
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    files: {"media": "D:\\test.jpg"}
+
+#    json:
+#      "CompanyCode": "TC0139"
+#      "UserName": "DAVID"
+#      "Password": "Travel2021"
+
+  validate: null

@@ -1,0 +1,5 @@
+INFO     2023-03-06 15:43:35 [webdriver_helper.driver:11] : ====== WebDriver manager ======
+INFO     2023-03-06 15:43:36 [webdriver_helper.driver:11] : Get LATEST chromedriver version for google-chrome 110.0.5481
+INFO     2023-03-06 15:43:37 [webdriver_helper.driver:11] : Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+INFO     2023-03-06 15:43:39 [test_case.test_smoke_xo:36] : 开始执行用例
+INFO     2023-03-06 15:43:46 [test_case.test_smoke_xo:43] : 测试通过

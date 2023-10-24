@@ -1,0 +1,17 @@
+INFO     2023-08-30 13:42:27 [test_case.test_order_create.test_create_invoice_Jayce:35] : 开始执行用例
+INFO     2023-08-30 13:43:18 [Tripo.Tripo_Web.pages.BasePage:68] : 登錄成功
+INFO     2023-08-30 13:43:18 [test_case.test_order_create.test_create_invoice_Jayce:44] : 登錄成功
+INFO     2023-08-30 13:43:25 [Tripo.Tripo_Web.pages.QuotationPage:189] : 发票页头已填完
+INFO     2023-08-30 13:43:30 [Tripo.Tripo_Web.pages.QuotationPage:288] : 手動創建航線成功！
+INFO     2023-08-30 13:43:33 [Tripo.Tripo_Web.pages.QuotationPage:288] : 手動創建航線成功！
+INFO     2023-08-30 13:43:40 [Tripo.Tripo_Web.pages.QuotationPage:336] : 添加一個酒店項目成功！
+INFO     2023-08-30 13:43:53 [Tripo.Tripo_Web.pages.QuotationPage:336] : 添加一個酒店項目成功！
+INFO     2023-08-30 13:43:57 [Tripo.Tripo_Web.pages.QuotationPage:363] : 創建一個其他費用項目成功
+INFO     2023-08-30 13:43:59 [Tripo.Tripo_Web.pages.QuotationPage:363] : 創建一個其他費用項目成功
+INFO     2023-08-30 13:44:03 [Tripo.Tripo_Web.pages.QuotationPage:401] : 創建一個一日遊項目成功！
+INFO     2023-08-30 13:44:07 [Tripo.Tripo_Web.pages.QuotationPage:401] : 創建一個一日遊項目成功！
+INFO     2023-08-30 13:44:13 [Tripo.Tripo_Web.pages.QuotationPage:413] : 創建頁面總價格為HKD 6,709.01,編輯頁面總價格為0
+INFO     2023-08-30 13:44:13 [Tripo.Tripo_Web.pages.QuotationPage:417] : 斷言通過,進入下一頁！
+INFO     2023-08-30 13:44:24 [Tripo.Tripo_Web.pages.BasePage:152] : 成功添加一名乘客！
+INFO     2023-08-30 13:44:25 [Tripo.Tripo_Web.pages.BasePage:152] : 成功添加一名乘客！
+INFO     2023-08-30 13:44:26 [Tripo.Tripo_Web.pages.BasePage:168] : 創建發票成功！獲取頁面元素：

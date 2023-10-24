@@ -1,0 +1,49 @@
+# 编辑航线项目
+-
+  subscript_0: 0
+  textbasicfare_invoice: 1000
+  subscript_1: 1
+  textbasicfare_xo: 1001
+  subscript_2: 2
+  texttickettax_invoice: 1000
+  subscript_3: 3
+  texttickettax_xo: 1001
+  subscript0: 0
+  passenger0: 110-1101
+  subscript1: 1
+  passenger1: 110-1102
+  subscript2: 2
+  passenger2: 110-1103
+  subscript3: 3
+  passenger3: 110-1104
+  subscript0_2: 0
+  passenger0_2: 120-1201
+  subscript1_2: 1
+  passenger1_2: 120-1202
+  subscript2_2: 2
+  passenger2_2: 120-1203
+  subscript3_2: 3
+  passenger3_2: 120-1204
+#  subscript4: 4
+#  passenger4: 110-115
+#
+#-
+#  subscript_0: 0
+#  textbasicfare_invoice: 2000
+#  subscript_1: 1
+#  textbasicfare_xo: 2002
+#  subscript_2: 2
+#  texttickettax_invoice: 2000
+#  subscript_3: 3
+#  texttickettax_xo: 2002
+#  subscript0: 0
+#  passenger0: 120-111
+#  subscript1: 1
+#  passenger1: 120-112
+#  subscript2: 2
+#  passenger2: 120-113
+#  subscript3: 3
+#  passenger3: 120-114
+##  subscript4: 4
+##  passenger4: 120-115
+

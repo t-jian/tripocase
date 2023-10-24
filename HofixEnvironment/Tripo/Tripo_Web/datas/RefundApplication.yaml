@@ -1,0 +1,10 @@
+#receipt_fare為0時會選擇全部付款
+-
+ textcontactperson: "david"
+ textphone: "123456789"
+ refundapplication_remark: "機票項目退款申請的退款提示"
+ refundapplication_description: "機票項目退款申請的說明"
+ refundapplication_xo_remark: "發票機票項目同步創建xo 的退款申請的退款提示"
+ refundapplication_invoice_remark: "xo機票項目同步創建invoice 的退款申請的退款提示"
+
+

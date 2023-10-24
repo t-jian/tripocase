@@ -1,0 +1,7 @@
+-
+  textcontentpnr: "--- TST SFP ---\nRP/HKGH222X8/HKGH222X8            IC/SU  23FEB22/0719Z   594DUK\nHKGH222X8/0122IC/20FEB22\n  1.TUMULAK/RICKY INF\n  2  SU 053 E 21FEB 1 LEDSVO         FLWN\n  3  AF4364 Y 21FEB 1 SVOCDG         FLWN\n     OPERATED BY AEROFLOT\n  4  AF 006 U 21FEB 1 CDGJFK         FLWN\n  5 MIS 1A HK1 HKG 30DEC-MOL MAESTRO"
+  textbasicfare_invoice: 301
+  textbasicfare_xo: 300
+  texttickettax_invoice: 301
+  texttickettax_xo: 300
+  validate: null

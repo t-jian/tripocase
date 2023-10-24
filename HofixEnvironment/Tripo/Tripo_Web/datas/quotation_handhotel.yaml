@@ -1,0 +1,23 @@
+-
+  texthotel_search: "手输酒店一"
+  texthotelcity: "香港"
+  texthotelcountry: "中国"
+  texthotelpropertytype: "hotel住宿類型"
+  texthotelspecial: "hote特別"
+  texthotelroomplan: "hotel房間計劃"
+  texthotelfare_invoice: 500
+  texthotelfare_xo: 501
+  texthotelfare_unit: "hotelunit1"
+  texthotelfare_remark: "酒店備註第一段有13個字：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："
+
+-
+  texthotel_search: "手输酒店二"
+  texthotelcity: "香港"
+  texthotelcountry: "中国"
+  texthotelpropertytype: "hotel住宿類型"
+  texthotelspecial: "hote特別"
+  texthotelroomplan: "hotel房間計劃"
+  texthotelfare_invoice: 600
+  texthotelfare_xo: 601
+  texthotelfare_unit: "hotelunit2"
+  texthotelfare_remark: "酒店備註第一段有13個字：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："

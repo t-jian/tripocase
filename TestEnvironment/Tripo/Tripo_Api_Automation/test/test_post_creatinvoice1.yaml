@@ -1,0 +1,81 @@
+-
+  festure: 模块
+  story: 模块下的接口
+  title: 接口的用例
+  request:
+    method: post
+    url: http://tripo.hotfix.travelconnect.co/api/v1/b2bapp/Order/CreateManualInvoice?Authorization=
+    headers:
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    json:
+      "invoice": 
+        "CustomerID": "771f3aa7-42ff-43c3-afab-6da587e16c5b"
+        "SupplierID": ""
+        "FollowID": 808
+        "ShipID": ""
+        "ShipName": ""
+        "CurrentID": 562
+        "CompanyName": "額度0921"
+        "CountType": 0
+        "PayTime": "2022-12-05"
+        "InvoiceTime": "2022-12-05"
+        "LastName": "."
+        "FirstName": "."
+        "ClientName": ""
+        "Phone": ""
+        "Mobile": "123555"
+        "Fax": ""
+        "Email": ""
+        "Currency": 132
+        "ExchangeRate": 1
+        "Discount": ""
+        "PaymentType": 503
+        "BankChargesPercentage": 0
+        "BankCharges": 0
+        "CardChargesPercentage": 0
+        "CardCharges": 0
+        "AddressProvince": ""
+        "AddressCity": ""
+        "Address": ""
+        "Remarks": ""
+        "RemarksOne": ""
+        "RemarksTwo": ""
+        "RemarksThress": ""
+        "ChargeTypeCard": 0
+        "ChargeTypeBank": 0
+      
+      "quoteFInquiry": ""
+      "Requirementid": 1
+      "QuoteFilghtInfoList": 
+      "otherFeetype": 
+        "Feetypelist": 
+          
+            "ID": "3a9848b4-cfa3-41fd-be10-0cd6030a07b9"
+            "Number": 1
+            "MinFee": 1
+            "OtherRemarks": null
+            "Remarks": "二日遊"
+            "Unit": "HKD"
+            "AdjustQuotion": 1
+            "EntryName": "二日遊"
+            "PassengerList": 
+            "list": 
+            "keyWord": ""
+            "isPassagerShow": false
+            "tablePager": 
+              "page": 1
+              "pageTotal": 5
+              "total": 0
+            
+            "OriginalQuotation": 1
+            "feeID": 1
+          
+        
+      
+      "manuallist": 
+      "hotellist": 
+      "PNRhotellist": 
+      "OneDayTourlist": 
+      "Parms": 
+
+  validate: null

@@ -1,0 +1,20 @@
+-
+  label: 1
+  textpassengerfirstname: "f_ticket"
+  textpassengersecondname: "s_ticket"
+-
+  label: 2
+  textpassengerfirstname: "f_hotel"
+  textpassengersecondname: "s-hotel"
+-
+  label: 3
+  textpassengerfirstname: "f_msic"
+  textpassengersecondname: "s-msic"
+-
+  label: 4
+  textpassengerfirstname: "f_tour"
+  textpassengersecondname: "s-tour"
+-
+  label: 5
+  textpassengerfirstname: "f_group"
+  textpassengersecondname: "s-group"

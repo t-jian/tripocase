@@ -1,0 +1,1 @@
+INFO     Tripo.Tripo_Web.pages.BasePage:QuotationAddPage.py:164 創建發票成功！獲取頁面元素：

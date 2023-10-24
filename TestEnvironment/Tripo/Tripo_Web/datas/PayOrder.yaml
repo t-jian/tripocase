@@ -1,0 +1,5 @@
+#receipt_fare為0時會選擇全部付款
+-
+ receipt_fare: 0
+ receipt_bankchage: 10
+ receipt_creditchage: 20

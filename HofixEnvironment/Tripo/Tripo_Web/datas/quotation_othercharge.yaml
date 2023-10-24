@@ -1,0 +1,23 @@
+-
+  subscript: 5
+  textothercharge_invoice: "701"
+  textothercharge_xo: "700"
+  textothercharge_unit: "msicunit1"
+  textothercharge_remark: "其他費用備註第一段有15個字：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："
+
+  textothercharge_invoice_edit: "1701"
+  textothercharge_xo_edit: "1700"
+  textothercharge_unit_edit: "msicunit1_edit"
+  textothercharge_remark_edit: "其他費用備註第一段有15個字(edit)：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："
+
+-
+  subscript: 7
+  textothercharge_invoice: "801"
+  textothercharge_xo: "800"
+  textothercharge_unit: "msicunit2"
+  textothercharge_remark: "其他費用備註第一段有15個字：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："
+
+  textothercharge_invoice_edit: "1801"
+  textothercharge_xo_edit: "1800"
+  textothercharge_unit_edit: "msicunit1_edit"
+  textothercharge_remark_edit: "其他費用備註第一段有15個字(edit)：\n備註第二段有22個字：備註第二段有22個字：\n備註第三段有44個字：備註第三段有44個字：備註第三段有44個字：備註第三段有44個字："

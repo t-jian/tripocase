@@ -1,0 +1,9 @@
+-
+  login:
+    textaccount: David
+    textpassword: Travel2021
+    textcompanycode: TC0139
+    url: "http://tripo.hotfix.travelconnect.co/#/login"
+#    url: "http://tripo.staging.travelconnect.co/#/login"
+
+

@@ -1,0 +1,5 @@
+INFO     2023-08-23 16:15:23 [test_case.Test_Invoice.test_create_invoice_Jayce:35] : 开始执行用例
+INFO     2023-08-23 16:15:27 [test_case.Test_Invoice.test_create_invoice_Jayce:44] : 测试通过
+INFO     2023-08-23 16:16:59 [Tripo.Tripo_Web.pages.QuotationPage:404] : 創建頁面總價格為HKD 5,908.00,編輯頁面總價格為5,908.00
+INFO     2023-08-23 16:16:59 [Tripo.Tripo_Web.pages.QuotationPage:408] : 斷言通過
+INFO     2023-08-23 16:17:09 [Tripo.Tripo_Web.pages.BasePage:164] : 創建發票成功！獲取頁面元素：
